@@ -1,11 +1,13 @@
 Package: RC
-Title: A package for RaceCounts
+Title: A package for commonly used functions for Race-Counts indicators
 Version: 0.0.0.9000
 Authors@R: 
-    person("Catalyst California,  "cringewald@catalystcalifornia.org", role = c("aut", "cre"),
+    person("Catalyst", "California", , "cringewald@catalystcalifornia.org", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: A package for commonly used functions for Race-Counts indicators.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+URL: https://github.com/davidseg1997/RC
+BugReports: https://github.com/davidseg1997/RC/issues
